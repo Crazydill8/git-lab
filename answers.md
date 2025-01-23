@@ -51,3 +51,12 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+
+Answer 10:
+The online changes weren't present on my local copy
+
+Answer 11: 
+When I tried using git push it said i didn't have new changes on my local copy and I need to use git pull
+
+Answer 12: The online changes were in my local copy
+Answer 13: .  ..  .git  .gitignore  README.md
