@@ -36,3 +36,13 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   README.md
         new file:   answers.md
+Answer 7:
+On branch master
+nothing to commit, working tree clean
+
+Answer 8: 
+commit 11fbeb239a36f338cdd2092a01d610c05800a7a0 (HEAD -> master)
+Author: Crazydill8 <Crazydill81@gmail.com>
+Date:   Wed Jan 22 19:08:33 2025 -0500
+
+    Initial commit
